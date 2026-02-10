@@ -17,8 +17,4 @@ Features include:
 
 How to play:
 
-git clone https://github.com/yourusername/tic-tac-toe-ai.git
-
-cd tic-tac-toe-ai
-
-python tictactoe.py
+git clone [https://github.com/yourusername/tic-tac-toe-ai.git](https://github.com/Jigar-M/AI-TicTacToe.git)
