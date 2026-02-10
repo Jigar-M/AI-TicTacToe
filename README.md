@@ -3,6 +3,7 @@ Tic-Tac-Toe AI 🎮⚡
 A simple Python implementation of the game Tic-Tac-Toe featuring an AI opponent through a Minimax algorithm. This project demonstrates advanced algorithmic thinking and game theory principles in a clean, interactive console application.
 
 Features include:
+
 🤖 Unbeatable AI: Implements the Minimax algorithm for perfect gameplay
 
 🎮 Interactive Gameplay: Clean console interface with intuitive controls
